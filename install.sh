@@ -4,7 +4,7 @@
 
 set -e
 
-DOWNLOAD_URL="https://raw.githubusercontent.com/plutov/o/master/o.sh"
+DOWNLOAD_URL="https://raw.githubusercontent.com/vanduc1102/o/master/install.sh"
 TMP_FILE="/tmp/o.sh"
 
 downloadFile() {
